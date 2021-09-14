@@ -1,0 +1,8 @@
+Django==2.2.14
+djangorestframework==3.12.4
+django-rest-knox==4.10
+django-rest-passwordreset==1.2.0
+mysqlclient==2.0.3
+python-decouple==3.4
+pip=20.2.3
+virtualenv==20.7.2
